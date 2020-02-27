@@ -7,6 +7,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+// Supposed to implement an interface, but just wanted to shortcut
 @Service
 public class PostService {
 
